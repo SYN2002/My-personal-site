@@ -1,0 +1,13 @@
+hr{
+    /* background-color: rgb(66, 160, 172); */
+    width: 30%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+}
+
+body{
+    background-color: rgb(183, 226, 161);
+    /* font-size: 18px; */
+}
